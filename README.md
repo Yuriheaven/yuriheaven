@@ -1,17 +1,21 @@
-<p align="center">
+<div align="center">
  <img width="800" src="https://files.catbox.moe/oljwfm.png">
-</p>
 
 
 
- <p align="center">
+
+ <div align="center">
  <img width="100" src="https://files.catbox.moe/cfecq9.png">
  </p>
 
- <p align="center">
-Hello!! I'm Blunia :3 Feel free to seat with me!
-</p>
 
- <p align="center">
+Hello!! I'm Blunia :3 Feel free to sit with me!
+
+
+
  https://blunia.atabook.org
- </p>
+
+
+
+ <img width="100" src="https://files.catbox.moe/c434w6.gif"> <img width="100" src="https://files.catbox.moe/m55u12.gif"> <img width="100" src="https://files.catbox.moe/hbuosu.gif"> <img width="100" src="https://files.catbox.moe/9zubor.gif">
+</div>
