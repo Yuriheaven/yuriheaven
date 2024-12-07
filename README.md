@@ -1,4 +1,5 @@
 <div align="center">
+ ㅤ<p>  <img src="https://komarev.com/ghpvc/?username=Kretynka&label=views&color=6a825a"> <p/>
  <img width="800" src="https://files.catbox.moe/oljwfm.png">
 
 
