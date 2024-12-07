@@ -13,4 +13,4 @@ Hello!! I'm Blunia :3 Feel free to seat with me!
 </p>
 
  <p align="center">
- My [atabook](https://blunia.atabook.org) 
+ (https://blunia.atabook.org) 
