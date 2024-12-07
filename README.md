@@ -17,5 +17,5 @@ Hello!! I'm Blunia :3 Feel free to sit with me!
 
 
 
- <img width="100" src="https://files.catbox.moe/c434w6.gif"> <img width="100" src="https://files.catbox.moe/m55u12.gif"> <img width="100" src="https://files.catbox.moe/hbuosu.gif"> <img width="100" src="https://files.catbox.moe/9zubor.gif">
+ <img width="100" src="https://files.catbox.moe/c434w6.gif"> <img width="103" src="https://files.catbox.moe/m55u12.gif"> <img width="100" src="https://files.catbox.moe/hbuosu.gif"> <img width="100" src="https://files.catbox.moe/9zubor.gif">
 </div>
