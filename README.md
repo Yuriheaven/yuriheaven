@@ -13,7 +13,7 @@
 Hello!! I'm Blunia :3 Feel free to sit with me!
 
 
- https://blunia.straw.page
+ 
  
  https://blunia.atabook.org
 
