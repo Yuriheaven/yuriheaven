@@ -13,10 +13,6 @@
 Hello!! I'm Blunia :3 Feel free to sit with me!
 
 
- 
- 
- https://blunia.atabook.org
-
 
 <img width="100" src="https://files.catbox.moe/z8grn7.png"> <img width="100" src="https://files.catbox.moe/hcl0lq.png"> <img width="100" src="https://files.catbox.moe/j58gu8.gif"> <img width="100" src="https://files.catbox.moe/m0tg65.gif"> <img width="100" src="https://files.catbox.moe/t4ies4.gif"> <img width="100" src="https://files.catbox.moe/82hsym.png">
 
