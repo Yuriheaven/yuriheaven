@@ -3,7 +3,7 @@
  <img width="400" src="https://files.catbox.moe/wblqke.png">
 
 
-hi sit with me and sign my [strawpage](https://blunia.straw.page/) ヾ(•ω•`)o
+feel free to sit with me and also sign my [ata](https://blunia.atabook.org/) or my [strawpage](https://blunia.straw.page/) 
 
  <img width="400" src="https://files.catbox.moe/wblqke.png">
 
